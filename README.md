@@ -54,8 +54,8 @@ h1{
 <p class="websites">websites:</p>
 
 <ul class = "list">
-    <li><a href="https://github.com/saharAdem/hello-world/edit/master/README.md" >GitHub repo</a></li>
-   <li><a href="https://www.freecodecamp.org/settings" >Free Code Camp</a></li>
+    <li><a href="https://github.com/saharAdem/personal-information/edit/master/README.md" >GitHub repo</a></li>
+   <li><a href="https://www.freecodecamp.org/fcc869ff359-16f0-4b40-9722-bde8a96f7b21" >Free Code Camp</a></li>
 
    <li><a href="https://www.codewars.com/users/SaharIshaq" >Codewars</a></li>
 
