@@ -29,7 +29,7 @@
 <body>  
 <h1>Personal Information</h1>
 <p class= "interested">I have a good communication, leadership and good teaming skills gained through my experience as an exchange student and volunteer in many institutions. Also I love programming and logical thinking  for solving problems. 
-</p><br>
+</p>
 
 <p class="websites">websites:</p>
 
