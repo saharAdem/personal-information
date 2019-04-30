@@ -34,7 +34,7 @@
 <p class="websites">websites:</p>
 
 <ul class = "websitesList">
-    <li><a href="https://github.com/saharAdem/hello-world/edit/master/README.md" >GitHub repo</a></li>
+    <li><a href="https://github.com/saharAdem/personal-information/edit/master/README.md" >GitHub repo</a></li>
 
 
 	<li><a href="https://www.freecodecamp.org/settings" >Free Code Camp</a></li>
